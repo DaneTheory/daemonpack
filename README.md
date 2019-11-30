@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="400" height="200"
-    src="https://raw.githubusercontent.com/Gherciu/daemonpack/master/logo.png">
+  <img width="300" height="200"
+    src="https://raw.githubusercontent.com/Gherciu/daemonpack/master/logo.jpg">
   <h1>daemonpack</h1>
   <p>👹 daemonpack is a node-daemon script template repository.</p>
 </div>
