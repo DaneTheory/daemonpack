@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "github-activity-improver",
+      "script": "./index.js",
+      "watch": false
+    }
+  ]
+}
