@@ -12,7 +12,7 @@
 
 - Clone the repo: `git clone https://github.com/Gherciu/daemonpack.git`
 - Edit configuration variables in `.env` file
-- Start the prod job: `npm run serve` in background.This comand will start a persistent node process, that will restart every time when you start your PC, and every time this will make a random number of commits to this repository.
+- Start the prod job: `npm run serve` in background.This comand will start a persistent node process, that will restart every time when you start your PC.
 
 ## Configuration
 
