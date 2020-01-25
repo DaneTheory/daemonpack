@@ -36,6 +36,10 @@ To change the configuration variables, just edit thats in `.env` file.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+#### Or you can sponsor via [Open Collective](https://opencollective.com/gherciu-gheorghe/)
+
+[![Open Collective](https://opencollective.com/gherciu-gheorghe/tiers/sponsor.svg?avatarHeight=60)](https://opencollective.com/gherciu-gheorghe/)
+
 ## Author
 
 **[@Gherciu/daemonpack](https://github.com/Gherciu/daemonpack)** © [GHERCIU](https://github.com/Gherciu), Released under the [MIT](https://github.com/Gherciu/daemonpack/blob/master/LICENSE) License.<br>
